@@ -1,0 +1,48 @@
+*{
+  font-family: 'EB Garamond', serif;
+}
+
+header{
+  background-color: yellow;
+  width: 100vw;
+  height: 10vh;
+  display: inline-block;
+  float: right;
+}
+
+.menu{
+  background-color: green;
+  width: 14vw;
+  height: 90vh;
+  display: inline-block;
+  float: left;
+}
+
+main{
+  background-color: blue;
+  width: 84vw;
+  height: 90vh;
+  display: inline-block;
+  float: left;
+}
+
+.left{
+  background-color: orange;
+  width: 33.33%;
+  display: inline-block;
+  float: left;
+}
+
+.middle{
+  background-color: red;
+  width: 33.33%;
+  display: inline-block;
+  float: left;
+}
+
+.right{
+  background-color: purple;
+  width: 33.33%;
+  display: inline-block;
+  float: right;
+}
